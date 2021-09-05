@@ -17,3 +17,5 @@ dist/
 target/
 
 package-lock.json
+
+.parcel-cache/
