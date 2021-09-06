@@ -1,3 +1,4 @@
 service : {
     "greeting": (text) -> (text) query;
+    "leaving": (text) -> (text) query;
 }
